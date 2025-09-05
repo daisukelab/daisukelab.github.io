@@ -11,10 +11,10 @@ My research aims to advance how machines perceive and understand sound, contribu
 ---
 
 ## Research Interests
-- Audio representation learning  
-- Audio–language models  
-- Self-supervised learning  
-- Sound event detection and classification   (DCASE)
+- Audio representation learning (General-purpose audio representation)
+- Audio–language models
+- Self-supervised learning
+- Sound event detection and classification (DCASE)
 
 ---
 
