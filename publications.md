@@ -43,11 +43,11 @@ This page lists my full publication record, categorized into journals, internati
 
 5. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, M. Yasuda, S. Tsubaki, K. Imoto,  
    "M2D-CLAP: Masked Modeling Duo Meets CLAP for Learning General-purpose Audio-Language Representation,"  
-   *Interspeech*, 2024 (to appear).
+   *Interspeech*, 2024.
 
 6. D. Niizumi, N. Harada, M. Yasuda, Y. Ohishi, D. Takeuchi, M. Yasuda,  
    "ToyADMOS2#: Yet Another Dataset for the DCASE2024 Challenge Task 2 First-Shot Anomalous Sound Detection,"  
-   *DCASE*, 2024 (to appear).
+   *DCASE*, 2024.
 
 7. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
    "Masked Modeling Duo: Learning Representations by Encouraging Both Networks to Model the Input,"  
@@ -55,7 +55,7 @@ This page lists my full publication record, categorized into journals, internati
 
 8. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
    "Masked Modeling Duo for Speech: Specializing General-Purpose Audio Representation to Speech using Denoising Distillation,"  
-   *Interspeech*, 2023 (to appear).
+   *Interspeech*,.
 
 9. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
    "Masked Spectrogram Modeling using Masked Autoencoders for Learning General-purpose Audio Representation,"  
@@ -70,33 +70,95 @@ This page lists my full publication record, categorized into journals, internati
     *International Joint Conference on Neural Networks (IJCNN)*, 2021.
 
 ### Co-authored 
-1.	B. T. Nguyen, D. Takeuchi, M. Yasuda, D. Niizumi, Y. Ohishi, N. Harada, “Collision-less and Balanced Sampling for Language-Queried Audio Source Separation,” in ICASSP, 2025.
-2.	C. Hernandez-Olivan, M. Delcroix, T. Ochiai, D. Niizumi, N. Tawara, T. Nakatani, S. Araki, "SoundBeam meets M2D: Target Sound Extraction with Audio Foundation Model," in ICASSP, 2025.
-3.	D. Takeuchi, B. T. Nguyen, M. Yasuda, Y. Ohishi, D. Niizumi, N. Harada, “CLAP-ART: Automated Audio Captioning\\ with Semantic-rich Audio Representation Tokenizer,” in Interspeech, 2025.
-4.	B. T. Nguyen, M. Yasuda, D. Takeuchi, D. Niizumi, Y. Ohishi, N. Harada, “Baseline Systems and Evaluation Metrics for Spatial Semantic Segmentation of Sound Scenes,” in EUSIPCO, 2025.
-5.	T. Nishida, N. Harada, D. Niizumi, D. Albertini, R. Sannino, S. Pradolini, F. Augusti, K. Imoto, K. Dohi, H. Purohit, T. Endo, Y. Kawaguchi, “Description and Discussion on DCASE 2025 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring,” in DCASE, 2025.
-6.	M. Yasuda, B. T. Nguyen, N. Harada, R. Serizel, M. Mishra, M. Delcroix, S. Araki, D. Takeuchi, D. Niizumi, Y. Ohishi, T. Nakatani, T. Kawamura, N. Ono, "Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes," in DCASE, 2025.
-7.	D. Takeuchi, M. Yasuda, D. Niizumi, N. Harada, “Towards Learning a Difference-aware General-purpose Audio Representation,” to appear at DCASE, 2024.
-8.	S. Tsubaki, D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Imoto, “Refining knowledge transfer on audio-image temporal agreement for audio-text cross retrieval,” to appear at EUSIPCO, 2024.
-9.	T. Nishida, N. Harada, D. Niizumi, D. Albertini, R. Sannino, S. Pradolini, F. Augusti, K. Imoto, K. Dohi, H. Purohit, T. Endo, Y. Kawaguchi, “Description and Discussion on DCASE 2024 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring,” to appear at DCASE, 2024.
-10.	N. Harada, D. Niizumi, Y. Ohishi, D. Takeuchi, M. Yasuda, “First-shot anomaly sound detection for machine condition monitoring: A domain generalization baseline,” to appear at EUSIPCO, 2023.
-11.	N. Harada, D. Niizumi, Y. Ohishi, D. Takeuchi, M. Yasuda, “ToyADMOS2+: Detailed description of newly recorded ToyADMOS data and benchmark results of the First-shot ASD baseline,” in DCASE, 2023.
-12.	D. Takeuchi, Y. Ohishi, D. Niizumi, N. Harada, K. Kashino, “Audio Difference Captioning Utilizing Similarity-Discrepancy Disentanglement,” in DCASE, 2023.
-13.	K. Dohi, K. Imoto, N. Harada, D. Niizumi, Y. Koizumi, T. Nishida, H. Purohit, et. al., “Description and Discussion on DCASE 2023 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring,” in DCASE, 2023.
-14.	B. Liu, S. Zhang, D. Takeuchi, D. Niizumi, N. Harada, S. Makino, “MASKED MODELING DUO VISION TRANSFORMER WITH MULTI-LAYER FEATURE FUSION ON RESPIRATORY SOUND CLASSIFICATION,” in DCASE, 2023.
-15.	H. Xing, S. Zhang, D. Takeuchi, D. Niizumi, N. Harada, S. Makino, “Enhancing Spectrogram for Audio Classification Using Time-Frequency Enhancer,” in APSIPA, 2023.
-16.	D. Takeuchi, Y. Ohishi, D. Niizumi, N. Harada, K. Kashino, "Introducing Auxiliary Text Query-modifier to Content-based Audio Retrieval," in Interspeech, 2022.
-17.	Y. Ohishi, M. Delcroix, T. Ochiai, S. Araki, D. Takeuchi, D. Niizumi, A. Kimura, N. Harada, and K. Kashino, "ConceptBeam: Concept driven target speech extraction," in ACMMM, 2022.
-18.	K. Dohi, K. Imoto, N. Harada, D. Niizumi, Y. Koizumi, T. Nishida, H. Purohit, T. Endo, M. Yamamoto, and Y. Kawaguchi, "Description and discussion on dcase 2022 challenge task 2: Unsupervised anomalous sound detection for machine condition monitoring applying domain generalization techniques," in DCASE, 2022.
-19.	N. Harada, D. Niizumi, D. Takeuchi, Y. Ohishi, M. Yasuda, and S. Saito, "ToyADMOS2: Another Dataset of Miniature-Machine Operating Sounds for Anomalous Sound Detection under Domain Shift Conditions," in DCASE, 2021.
-20.	Y . Kawaguchi, K. Imoto, Y. Koizumi, N. Harada, D. Niizumi, K. Dohi, R. Tanabe, H. Purohit, and T. Endo, "Description and Discussion on DCASE 2021 Challenge Task 2: Unsupervised Anomalous Sound Detection for Machine Condition Monitoring under Domain Shifted Conditions," in DCASE, 2021
-21.	S. Gharib, H. Derrar, D. Niizumi, T. Senttula, J. Tommola, T. Heittola, T. Virtanen, H. Huttunen, "Acoustic scene classification: A competition review," 2018 IEEE 28th International Workshop on Machine Learning for Signal Processing (MLSP), 2018
+1.	B. T. Nguyen, D. Takeuchi, M. Yasuda, D. Niizumi, Y. Ohishi, N. Harada,
+    “Collision-less and Balanced Sampling for Language-Queried Audio Source Separation,”
+    *ICASSP*, 2025.
+
+2.	C. Hernandez-Olivan, M. Delcroix, T. Ochiai, D. Niizumi, N. Tawara, T. Nakatani, S. Araki,
+    "SoundBeam meets M2D: Target Sound Extraction with Audio Foundation Model,"
+  	*ICASSP*, 2025.
+
+3.	D. Takeuchi, B. T. Nguyen, M. Yasuda, Y. Ohishi, D. Niizumi, N. Harada,
+    “CLAP-ART: Automated Audio Captioning with Semantic-rich Audio Representation Tokenizer,”
+  	*Interspeech*, 2025.
+
+4.	B. T. Nguyen, M. Yasuda, D. Takeuchi, D. Niizumi, Y. Ohishi, N. Harada,
+    “Baseline Systems and Evaluation Metrics for Spatial Semantic Segmentation of Sound Scenes,”
+  	*EUSIPCO*, 2025 (to appear).
+
+5.	T. Nishida, N. Harada, D. Niizumi, D. Albertini, R. Sannino, S. Pradolini, F. Augusti, K. Imoto, K. Dohi, H. Purohit, T. Endo, Y. Kawaguchi,
+    “Description and Discussion on DCASE 2025 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring,”
+  	*DCASE*, 2025 (to appear).
+
+6.	M. Yasuda, B. T. Nguyen, N. Harada, R. Serizel, M. Mishra, M. Delcroix, S. Araki, D. Takeuchi, D. Niizumi, Y. Ohishi, T. Nakatani, T. Kawamura, N. Ono,
+    "Description and Discussion on DCASE 2025 Challenge Task 4: Spatial Semantic Segmentation of Sound Scenes,"
+    *DCASE*, 2025 (to appear).
+
+7.	D. Takeuchi, M. Yasuda, D. Niizumi, N. Harada,
+    “Towards Learning a Difference-aware General-purpose Audio Representation,”
+   	*DCASE*, 2024.
+
+8.	S. Tsubaki, D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Imoto,
+    “Refining knowledge transfer on audio-image temporal agreement for audio-text cross retrieval,”
+   	*EUSIPCO*, 2024.
+
+9.	T. Nishida, N. Harada, D. Niizumi, D. Albertini, R. Sannino, S. Pradolini, F. Augusti, K. Imoto, K. Dohi, H. Purohit, T. Endo, Y. Kawaguchi,
+    “Description and Discussion on DCASE 2024 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring,”
+   	*DCASE*, 2024.
+
+10.	N. Harada, D. Niizumi, Y. Ohishi, D. Takeuchi, M. Yasuda,
+    “First-shot anomaly sound detection for machine condition monitoring: A domain generalization baseline,”
+   	*EUSIPCO*, 2023.
+
+11.	N. Harada, D. Niizumi, Y. Ohishi, D. Takeuchi, M. Yasuda,
+    “ToyADMOS2+: Detailed description of newly recorded ToyADMOS data and benchmark results of the First-shot ASD baseline,”
+   	*DCASE*, 2023.
+
+12.	D. Takeuchi, Y. Ohishi, D. Niizumi, N. Harada, K. Kashino,
+    “Audio Difference Captioning Utilizing Similarity-Discrepancy Disentanglement,”
+   	*DCASE*, 2023.
+
+13.	K. Dohi, K. Imoto, N. Harada, D. Niizumi, Y. Koizumi, T. Nishida, H. Purohit, et. al.,
+    “Description and Discussion on DCASE 2023 Challenge Task 2: First-Shot Unsupervised Anomalous Sound Detection for Machine Condition Monitoring,”
+   	*DCASE*, 2023.
+
+14.	B. Liu, S. Zhang, D. Takeuchi, D. Niizumi, N. Harada, S. Makino,
+    “MASKED MODELING DUO VISION TRANSFORMER WITH MULTI-LAYER FEATURE FUSION ON RESPIRATORY SOUND CLASSIFICATION,”
+   	*DCASE*, 2023.
+
+15.	H. Xing, S. Zhang, D. Takeuchi, D. Niizumi, N. Harada, S. Makino,
+    “Enhancing Spectrogram for Audio Classification Using Time-Frequency Enhancer,”
+   	*APSIPA*, 2023.
+
+16.	D. Takeuchi, Y. Ohishi, D. Niizumi, N. Harada, K. Kashino,
+    "Introducing Auxiliary Text Query-modifier to Content-based Audio Retrieval,"
+   	*Interspeech*, 2022.
+
+17.	Y. Ohishi, M. Delcroix, T. Ochiai, S. Araki, D. Takeuchi, D. Niizumi, A. Kimura, N. Harada, and K. Kashino,
+    "ConceptBeam: Concept driven target speech extraction,"
+   	*ACM-MM*, 2022.
+
+18.	K. Dohi, K. Imoto, N. Harada, D. Niizumi, Y. Koizumi, T. Nishida, H. Purohit, T. Endo, M. Yamamoto, and Y. Kawaguchi,
+    "Description and discussion on DCASE 2022 challenge task 2: Unsupervised anomalous sound detection for machine condition monitoring applying domain generalization techniques,"
+   	*DCASE*, 2022.
+
+19.	N. Harada, D. Niizumi, D. Takeuchi, Y. Ohishi, M. Yasuda, and S. Saito,
+    "ToyADMOS2: Another Dataset of Miniature-Machine Operating Sounds for Anomalous Sound Detection under Domain Shift Conditions,"
+   	*DCASE*, 2021.
+
+20.	Y. Kawaguchi, K. Imoto, Y. Koizumi, N. Harada, D. Niizumi, K. Dohi, R. Tanabe, H. Purohit, and T. Endo,
+    "Description and Discussion on DCASE 2021 Challenge Task 2: Unsupervised Anomalous Sound Detection for Machine Condition Monitoring under Domain Shifted Conditions,"
+   	*DCASE*, 2021
+
+21.	S. Gharib, H. Derrar, D. Niizumi, T. Senttula, J. Tommola, T. Heittola, T. Virtanen, H. Huttunen,
+    "Acoustic scene classification: A competition review,"
+   	*MLSP*, 2018
 
 ---
 
 ## Invited Talks
-- 仁泉 大輔, *"音の聴き方を自ら学ぶAI ..."*,  
-  NTTコミュニケーション科学基礎研究所オープンハウス2025, 2025.  
+- Daisuke Niizumi, *"AI that learns to listen on its own -- Advancing self-supervised audio representation toward cutting-edge sound understanding with large language models"*,  
+  NTT Communication Science Laboratories OPEN HOUSE 2025, 2025.  
 
 - Daisuke Niizumi, *"BYOL for Audio: Exploring Pre-Trained General-Purpose Audio Representations,"*  
   IEEE Signal Processing Society Webinar, 2024.  
