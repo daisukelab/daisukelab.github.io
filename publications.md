@@ -155,4 +155,4 @@ This page lists my full publication record, categorized into journals, internati
 
 ---
 
-[← Back to Home](index.md)
+[← Back to Home](../index.md)
