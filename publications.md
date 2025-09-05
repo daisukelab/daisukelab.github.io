@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /publications/
+---
+
 # Publications
 
 This page lists my full publication record, categorized into journals, international conferences, invited talks, invited articles, and other activities.
