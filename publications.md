@@ -53,7 +53,7 @@ This page lists my full publication record, categorized into journals, internati
    *ICASSP*, 2023.
 8. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
    "Masked Modeling Duo for Speech: Specializing General-Purpose Audio Representation to Speech using Denoising Distillation,"  
-   *Interspeech*,.
+   *Interspeech*, 2023.
 9. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
    "Masked Spectrogram Modeling using Masked Autoencoders for Learning General-purpose Audio Representation,"  
    *HEAR: Holistic Evaluation of Audio Representations (NeurIPS 2021 Competition)*, vol. 166, pp. 1–24, 2022.
