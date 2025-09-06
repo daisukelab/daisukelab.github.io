@@ -28,8 +28,6 @@ This page lists my full publication record, categorized into journals, internati
 ## International Conferences
 
 ### First-author papers
-
-## International Conference Proceedings (First Author)
 1. D. Niizumi, D. Takeuchi, M. Yasuda, B. T. Nguyen, Y. Ohishi, N. Harada,  
    "Assessing the Utility of Audio Foundation Models for Heart and Respiratory Sound Analysis,"  
    *EMBC*, 2025.
