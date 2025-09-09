@@ -1,6 +1,6 @@
 # Daisuke Niizumi
 
-<img src="profile.jpg" alt="Daisuke Niizumi" width="200" style="border-radius: 50%;">
+<img src="profile.jpg" alt="Daisuke Niizumi" width="150" style="border-radius: 50%;">
 
 ---
 
