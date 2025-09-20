@@ -11,10 +11,13 @@ This page lists my full publication record, categorized into journals, internati
 ---
 
 ## Journal Articles
-1. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
+1. D. Niizumi, D. Takeuchi, M. Yasuda, B. T. Nguyen, Y. Ohishi, N. Harada,  
+   *"M2D-CLAP: Exploring General-purpose Audio-Language Representations Beyond CLAP,"*  
+   **IEEE Access**, 2025. [(URL)](https://ieeexplore.ieee.org/document/11168481)
+2. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
    *"Masked Modeling Duo: Towards a Universal Audio Pre-Training Framework,"*  
    **IEEE/ACM Trans. Audio, Speech, Language Process.**, vol. 32, pp. 2391–2406, 2024. [(URL)](https://ieeexplore.ieee.org/document/10502167)
-2. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
+3. D. Niizumi, D. Takeuchi, Y. Ohishi, N. Harada, K. Kashino,  
    *"BYOL for Audio: Exploring Pre-trained General-purpose Audio Representations,"*  
    **IEEE/ACM Trans. Audio, Speech, Language Process.**, vol. 31, pp. 137–151, 2023. [(URL)](https://ieeexplore.ieee.org/document/9944865)
 
