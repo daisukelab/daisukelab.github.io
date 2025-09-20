@@ -31,8 +31,8 @@ My research aims to advance how machines perceive and understand sound, contribu
 - D. Niizumi et al., *"BYOL for Audio: Exploring Pre-trained General-purpose Audio Representations,"*  
   **IEEE/ACM Trans. Audio, Speech, Language Process.**, 2023.  
 
-- D. Niizumi et al., *"M2D-CLAP: Masked Modeling Duo Meets CLAP for Learning General-purpose Audio-Language Representation,"*  
-  **Interspeech**, 2024.  
+- D. Niizumi et al., *"M2D-CLAP: Exploring General-purpose Audio-Language Representations Beyond CLAP,"*  
+  **IEEE Access**, 2025.  
 
 👉 See the [full publication list](publications.md).
 
